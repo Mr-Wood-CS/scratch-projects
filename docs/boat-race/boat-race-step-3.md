@@ -4,7 +4,7 @@ At the moment, the boat sprite can simply sail through the wooden barriers! You�
 
 Duplicate your boat sprite’s costume, and name one costume ==normal== and the other ==hit==.
 
-??? info "Duplicate costumes in Scratch 3"
+??? info "How to duplicate a costume in Scratch"
 
     - Click the Costumes tab, and you’ll see your sprite’s costume.
     - Right-click on the costume and click duplicate to create a copy of the costume.
@@ -17,7 +17,7 @@ Click on your ==hit== costume, and use the Select tool to grab pieces of the cos
 
 Add code blocks inside your ==forever== loop so that your code keeps checking if the boat sprite has touched any brown wooden barriers.
 
-??? info "Set colour input with eyedropper"
+??? info "How to set colour input with eyedropper"
 
     Some blocks in Scratch allow you to choose a colour.
 
@@ -45,11 +45,11 @@ If it has crashed, reset the boat sprite’s position.
 
 Here’s what your code should look like:
 
-![Crash reset Scratch blocks](assets/boat-block-03-crash-reset.png){ width="70%" }
+![Crash reset Scratch blocks](assets/boat-block-03-crash-reset.png){ width="50%" }
 
 Add code to make sure that your boat sprite always starts out looking ==normal==:
 
-![Start with normal costume Scratch blocks](assets/boat-block-04-start-normal-costume.png){ width="70%" }
+![Start with normal costume Scratch blocks](assets/boat-block-04-start-normal-costume.png){ width="50%" }
 
 Test your code again.
 

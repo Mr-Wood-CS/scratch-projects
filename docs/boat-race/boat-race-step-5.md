@@ -8,7 +8,7 @@ Make sure you have selected the Stage.
 
 Add a new variable called ==time== to your Stage.
 
-??? info "Add a variable in Scratch"
+??? info "How to add a variable in Scratch"
 
     - Click on **Variables** in the Code tab, then click on **Make a Variable**.
 
@@ -28,7 +28,7 @@ Add code to your Stage so that the timer counts up in tenths (0.1) of a second.
 
 Here’s the code to add:
 
-![Stage timer Scratch blocks](assets/boat-block-07-stage-timer.png){ width="70%" }
+![Stage timer Scratch blocks](assets/boat-block-07-stage-timer.png){ width="50%" }
 
 Test out your game and see how quickly you can get the boat to the island!
 

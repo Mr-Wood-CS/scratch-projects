@@ -13,7 +13,7 @@ You could add sound effects that play when:
 
 ??? tip "How to add a sound"
 
-    To add a sound from Scratch:
+    ==**Option 1: add a sound from Scratch:**==
 
     1. Click the sprite or the Stage where you want the sound to play.
     2. Click the **Sounds** tab.
@@ -23,7 +23,7 @@ You could add sound effects that play when:
     6. Go back to the **Code** tab.
     7. Add a sound block where you want the sound to play.
 
-    To upload a sound effect:
+    ==**Option 2: upload a sound effect to Scratch:**==
 
     1. Go to [Pixabay Sound Effects](https://pixabay.com/sound-effects/).
     2. Search for a sound effect that matches your game.
@@ -36,15 +36,9 @@ You could add sound effects that play when:
     9. Go back to the **Code** tab.
     10. Add a sound block where you want the sound to play.
 
-    You can:
-
-    - Choose a sound from Scratch.
-    - Record your own sound.
-    - Upload a sound file from [Pixabay Sound Effects](https://pixabay.com/sound-effects/).
-
 ## Add background music
 
-You could add background music to make your game feel more complete.
+You could also add background music to make your game feel more complete.
 
 ??? tip "How to find and add royalty-free music"
 

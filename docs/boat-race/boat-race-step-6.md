@@ -12,7 +12,7 @@ Tip: You can make your backdrop look like this by clicking the purple ==next bac
 
 Now add more code blocks to your boat’s ==forever== loop so that the boat sprite moves three extra steps when it touches a white arrow.
 
-![Booster arrows Scratch blocks](assets/boat-block-08-booster-arrows.png){ width="70%" }
+![Booster arrows Scratch blocks](assets/boat-block-08-booster-arrows.png){ width="50%" }
 
 Test your game to see whether your new booster arrows speed up the boat.
 
@@ -42,7 +42,7 @@ Here’s what your new code should look like:
 
 ![Gate thumbnail](assets/gate.png){ width="140" }
 
-![Spinning gate Scratch blocks](assets/boat-block-09-spinning-gate.png){ width="70%" }
+![Spinning gate Scratch blocks](assets/boat-block-09-spinning-gate.png){ width="50%" }
 
 Test your game again. You should now have a spinning gate that you need to steer your boat around.
 

@@ -4,7 +4,7 @@ Add this code to the boat sprite so that it starts in the bottom left-hand corne
 
 ![Boat sprite](assets/boat_resize.png){ width="140" }
 
-![Start and follow the mouse Scratch blocks](assets/boat-block-01-start-and-follow-mouse.png){ width="70%" }
+![Start and follow the mouse Scratch blocks](assets/boat-block-01-start-and-follow-mouse.png){ width="50%" }
 
 Test your code by clicking the green flag and moving the mouse. Does the boat sprite move towards the mouse pointer?
 
@@ -16,6 +16,6 @@ What happens when the boat reaches the mouse pointer?
 
 Add code to the boat sprite so it only points towards the mouse pointer and moves if the distance to the mouse pointer is greater than 5 pixels.
 
-![Follow the mouse only when far away Scratch blocks](assets/boat-block-02-follow-mouse-when-far.png){ width="70%" }
+![Follow the mouse only when far away Scratch blocks](assets/boat-block-02-follow-mouse-when-far.png){ width="50%" }
 
 Test your code again to check whether the problem is now fixed.
