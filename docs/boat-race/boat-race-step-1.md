@@ -1,10 +1,8 @@
 # Step 1: Getting started
 
-Download and open the starter project in Scratch.
+!!! info "How to download and open the starter project in Scratch."
 
-[Download the Boat Race starter project](BoatRace.sb3){ .md-button .md-button--primary .download-button }
-
-??? info "How to open the starter project in Scratch"
+    [Download the Boat Race starter project](BoatRace.sb3){ .md-button .md-button--primary .download-button }
 
     1. Click the **Start** button or press the **Windows** key.
     2. Type **Scratch** into the search box.
