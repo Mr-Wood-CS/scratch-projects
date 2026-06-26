@@ -8,9 +8,7 @@ Add this code to the boat sprite so that it starts in the bottom left-hand corne
 
 ??? tip "Watch: controlling the boat"
 
-    <video controls width="720">
-      <source src="assets/videos/step-2.mov" type="video/quicktime">
-    </video>
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/k627g3swVgY" title="Controlling the boat" frameborder="0" allowfullscreen></iframe>
 
 Test your code by clicking the green flag and moving the mouse. Does the boat sprite move towards the mouse pointer?
 
