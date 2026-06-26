@@ -6,6 +6,12 @@ Add this code to the boat sprite so that it starts in the bottom left-hand corne
 
 ![Start and follow the mouse Scratch blocks](assets/boat-block-01-start-and-follow-mouse.png){ width="50%" }
 
+??? tip "Watch: controlling the boat"
+
+    <video controls width="720">
+      <source src="assets/videos/step-2.mov" type="video/quicktime">
+    </video>
+
 Test your code by clicking the green flag and moving the mouse. Does the boat sprite move towards the mouse pointer?
 
 ![Boat pointer test animation](assets/boat-pointer-test-anim.gif)
